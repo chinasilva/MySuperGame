@@ -1,0 +1,299 @@
+﻿以下不属于《红楼梦》中的人物是?
+  A:袭人 B:林如海 C:张飞
+---------------------------------
+ 选项    出现次数
+  A：     5
+  B：     0
+  C：     0
+---------------------------------
+  推荐答案：A
+---------------------------------
+
+搜索用时：2.175776243209839秒
+回车继续 y/n [y]:
+
+/sdcard/screenshot.png: 1 file pulled. 1.4 MB/s (156694 bytes in 0.111s)
+
+  A: B: C:
+---------------------------------
+ 选项    出现次数
+  A：     323178
+  B：     323178
+  C：     323178
+---------------------------------
+  推荐答案：C
+---------------------------------
+
+搜索用时：1.176649570465088秒
+回车继续 y/n [y]:
+
+/sdcard/screenshot.png: 1 file pulled. 1.6 MB/s (190543 bytes in 0.112s)
+从100数到200,包括100和200,一共可以数多少个数?
+  A:99 B:100 C:101
+---------------------------------
+ 选项    出现次数
+  A：     23
+  B：     326
+  C：     8
+---------------------------------
+  推荐答案：B
+---------------------------------
+
+搜索用时：0.9331183433532715秒
+回车继续 y/n [y]:
+
+/sdcard/screenshot.png: 1 file pulled. 1.3 MB/s (186047 bytes in 0.132s)
+宋代的城市汴京、洛阳、临安,哪一个地理位置最偏南?
+  A:临安 B:洛阳 C:汴京
+---------------------------------
+ 选项    出现次数
+  A：     62
+  B：     47
+  C：     43
+---------------------------------
+  推荐答案：A
+---------------------------------
+
+搜索用时：0.6325802803039551秒
+回车继续 y/n [y]:
+
+/sdcard/screenshot.png: 1 file pulled. 1.4 MB/s (225218 bytes in 0.153s)
+《瓦尔登湖》、《霍乱时期的爱情》、《远大前程》,哪部作品的作
+  A:《瓦尔登湖》 B:《霍乱时期的爱情》 C:《远大前程》
+---------------------------------
+ 选项    出现次数
+  A：     59
+  B：     25
+  C：     23
+---------------------------------
+  推荐答案：A
+---------------------------------
+
+搜索用时：0.5475695133209229秒
+回车继续 y/n [y]: Traceback (most recent call last):
+  File "hero.py", line 120, in <module>
+    gameBegin()
+  File "hero.py", line 113, in gameBegin
+    op = yes_or_no('回车继续')
+  File "hero.py", line 100, in yes_or_no
+    i = input(prompt)
+KeyboardInterrupt
+
+D:\python_source\superGame2\test>python test.py
+---------------------------------
+ 选项    出现次数
+  A：     59
+  B：     25
+  C：     23
+---------------------------------
+  推荐答案：A
+---------------------------------
+
+搜索用时：1.5541973114013672秒
+
+D:\python_source\superGame2\test>python test.py
+---------------------------------
+ 选项    出现次数
+  A：     20
+  B：     4
+  C：     5
+---------------------------------
+  推荐答案：A
+---------------------------------
+
+搜索用时：1.0991394519805908秒
+
+D:\python_source\superGame2\test>python test.py
+Traceback (most recent call last):
+  File "test.py", line 14, in <module>
+    main()
+  File "test.py", line 10, in main
+    ai.search()
+  File "D:\python_source\superGame2\test\aitext.py", line 58, in search
+    if(self.count == 4):       #这里是59行代码，如果你自己增加搜索接口(4改5)
+KeyboardInterrupt
+
+D:\python_source\superGame2\test>
+D:\python_source\superGame2\test>
+D:\python_source\superGame2\test>python test.py
+Traceback (most recent call last):
+  File "test.py", line 14, in <module>
+    main()
+  File "test.py", line 10, in main
+    ai.search()
+  File "D:\python_source\superGame2\test\aitext.py", line 58, in search
+    if(self.count == 4):       #这里是59行代码，如果你自己增加搜索接口(4改5)
+KeyboardInterrupt
+
+D:\python_source\superGame2\test>python test.py
+---------------------------------
+ 选项    出现次数
+  A：     20
+  B：     4
+  C：     5
+---------------------------------
+  推荐答案：A
+---------------------------------
+
+搜索用时：1.3486711978912354秒
+
+D:\python_source\superGame2\test>python test.py
+Traceback (most recent call last):
+  File "test.py", line 14, in <module>
+    main()
+  File "test.py", line 10, in main
+    ai.search()
+  File "D:\python_source\superGame2\test\aitext.py", line 58, in search
+    if(self.count == 3):       #这里是59行代码，如果你自己增加搜索接口(4改5)
+KeyboardInterrupt
+
+D:\python_source\superGame2\test>
+D:\python_source\superGame2\test>
+D:\python_source\superGame2\test>
+D:\python_source\superGame2\test>python test.py
+---------------------------------
+ 选项    出现次数
+  A：     16
+  B：     4
+  C：     5
+---------------------------------
+  推荐答案：A
+---------------------------------
+
+搜索用时：1.2951645851135254秒
+
+D:\python_source\superGame2\test>python test.py
+---------------------------------
+ 选项    出现次数
+  A：     7
+  B：     1
+  C：     1
+---------------------------------
+  推荐答案：A
+---------------------------------
+
+搜索用时：0.8151035308837891秒
+
+D:\python_source\superGame2\test>
+
+D:\python_source\superGame2\test>python test.py
+---------------------------------
+ 选项    出现次数
+  A：     7
+  B：     1
+  C：     1
+---------------------------------
+  推荐答案：A
+---------------------------------
+
+搜索用时：0.9111156463623047秒
+
+D:\python_source\superGame2\test>python test.py
+---------------------------------
+ 选项    出现次数
+  A：     3
+  B：     1
+  C：     1
+---------------------------------
+  推荐答案：A
+---------------------------------
+
+搜索用时：1.1891510486602783秒
+
+D:\python_source\superGame2\test>python test.py
+---------------------------------
+ 选项    出现次数
+  A：     5
+  B：     1
+  C：     2
+---------------------------------
+  推荐答案：A
+---------------------------------
+
+搜索用时：0.576073169708252秒
+
+D:\python_source\superGame2\test>python test.py
+---------------------------------
+ 选项    出现次数
+  A：     3
+  B：     1
+  C：     1
+---------------------------------
+  推荐答案：A
+---------------------------------
+
+搜索用时：1.0981392860412598秒
+
+D:\python_source\superGame2\test>python test.py
+---------------------------------
+ 选项    出现次数
+  A：     7
+  B：     1
+  C：     1
+---------------------------------
+  推荐答案：A
+---------------------------------
+
+搜索用时：0.8546085357666016秒
+
+D:\python_source\superGame2\test>python test.py
+---------------------------------
+ 选项    出现次数
+  A：     4
+  B：     2
+  C：     2
+---------------------------------
+  推荐答案：A
+---------------------------------
+
+搜索用时：1.158647060394287秒
+
+D:\python_source\superGame2\test>python test.py
+---------------------------------
+ 选项    出现次数
+  A：     1
+  B：     0
+  C：     0
+---------------------------------
+  推荐答案：A
+---------------------------------
+
+搜索用时：0.997626781463623秒
+
+D:\python_source\superGame2\test>python test.py
+---------------------------------
+ 选项    出现次数
+  A：     0
+  B：     0
+  C：     0
+---------------------------------
+  推荐答案：C
+---------------------------------
+
+搜索用时：0.8311054706573486秒
+
+D:\python_source\superGame2\test>python test.py
+---------------------------------
+ 选项    出现次数
+  A：     0
+  B：     0
+  C：     0
+---------------------------------
+  推荐答案：C
+---------------------------------
+
+搜索用时：0.5740728378295898秒
+
+D:\python_source\superGame2\test>python test.py
+---------------------------------
+ 选项    出现次数
+  A：     1
+  B：     3
+  C：     0
+---------------------------------
+  推荐答案：B
+---------------------------------
+
+搜索用时：1.1496460437774658秒
+
+D:\python_source\superGame2\test>
